@@ -1,2 +1,9 @@
 # 16-helloGH-dzahrer
-[coole description]
+
+
+
+Markdown Cheatsheet: https://github.com/lifeparticle/Markdown-Cheatsheet
+
+
+
+Hello Github: first Repo online! (hihihi)
